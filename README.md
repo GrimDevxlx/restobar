@@ -1,2 +1,2 @@
-# restobar
-local mindanao
+### Restobar & Grill
+local mindanao using PHP/MYSQL
